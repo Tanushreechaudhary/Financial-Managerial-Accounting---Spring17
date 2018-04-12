@@ -5,4 +5,4 @@
 * Analyzed various financial ratios like asset turnover, gross profit margin, earnings per share, and performance indicators like liquidity, solvency and profitability.<br/>
 * Used bench-marking as an important analysis tool to study the performance metrics of one business to the other.<br/>
 
-Link to Report: 
+Link to Report: https://github.com/Tanushreechaudhary/Financial-Managerial-Accounting---Spring17/blob/master/ACTG%202301%20Intel%20Vs%20AMD_Report.pdf
